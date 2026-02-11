@@ -1,3 +1,3 @@
 public interface DisplayElement {
-  public void dispaly();
+  public void display();
 }
